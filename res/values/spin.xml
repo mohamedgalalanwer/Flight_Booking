@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Travellers">
+        <item>1Traveller</item>
+          <item>2Traveller</item>
+          <item>3Traveller</item>
+          <item>4Traveller</item>
+            <item>5Traveller</item>
+              <item>6Traveller</item>
+                
+    </string-array>
+    <string-array name="class1">
+        <item>
+            bussines
+            
+        </item>
+        
+         <item>
+            Economy
+            
+        </item>
+         <item>
+            Frist
+            
+        </item>
+        <item>
+           Any
+            
+        </item>
+        <item>
+           premium
+            
+        </item>
+        
+        
+    </string-array>
+</resources>
